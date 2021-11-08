@@ -1,7 +1,7 @@
-<p align="left"> 
-  <img alt="Top Langs" height="180px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiHayashi&layout=compact&theme=cobalt">
-  <img alt="Top Langs" height="180px" width="auto" src="https://github-readme-stats.vercel.app/api?username=AkiHayashi&show_icons=true&theme=cobalt">
-</p>
+<div align="left"> 
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiHayashi&layout=compact&theme=cobalt">
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api?username=AkiHayashi&show_icons=true&theme=cobalt">
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AkiHayashi&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
